@@ -5,7 +5,7 @@ Mirror of csslint package for pre-commit.
 
 For pre-commit: see https://github.com/pre-commit/pre-commit
 
-For jshint: see https://github.com/CSSLint/csslint
+For csslint: see https://github.com/CSSLint/csslint
 
 
 ### Using csslint with pre-commit
