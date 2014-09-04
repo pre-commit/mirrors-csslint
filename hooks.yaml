@@ -1,0 +1,5 @@
+-   id: csslint
+    name: csslint
+    entry: csslint
+    language: node
+    files: \.css$
