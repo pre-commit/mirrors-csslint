@@ -12,7 +12,7 @@ For csslint: see https://github.com/CSSLint/csslint
 
 Add this to your `.pre-commit-config.yaml`:
 
-    -   repo: git://github.com/pre-commit/mirrors-csslint
+    -   repo: https://github.com/pre-commit/mirrors-csslint
         sha: ''  # Use the sha you want to point at
         hooks:
         -   id: csslint
